@@ -7,3 +7,6 @@ env/
 .idea/
 .vscode/
 .streamlit/secrets.toml
+web/node_modules/
+web/.next/
+docs/06-roteiro-pitch-voz.md

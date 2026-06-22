@@ -74,12 +74,16 @@ assistente-virtual-ia/
 │   ├── 03-prompts.md
 │   ├── 04-metricas.md
 │   └── 05-pitch.md
-└── src/
-    ├── app.py
-    ├── knowledge.py
-    ├── prompts.py
-    ├── llm.py
-    └── evaluate.py
+├── src/
+│   ├── app.py
+│   ├── knowledge.py
+│   ├── prompts.py
+│   ├── llm.py
+│   └── evaluate.py
+└── web/
+    ├── app/              # Interface Next.js (demo para pitch)
+    ├── components/
+    └── lib/
 ```
 
 ---
@@ -122,6 +126,31 @@ Se o Ollama não estiver rodando, a Mira usa respostas baseadas em regras e na b
 cd src
 python evaluate.py
 ```
+
+### Interface web (demo para pitch e Vercel)
+
+```bash
+cd web
+npm install
+npm run dev
+```
+
+Abra http://localhost:3000. Chat estilo assistente moderno, com a mesma lógica da Mira.
+
+**Deploy Vercel:** conecte o repositório e defina `Root Directory` como `web` (ou use o `vercel.json` na raiz).
+
+---
+
+## Pitch (vídeo 3 min)
+
+| Tempo | Bloco |
+|-------|-------|
+| 0:00-0:30 | Problema |
+| 0:30-1:30 | Solução |
+| 1:30-2:30 | Demonstração (gravar a `web/`) |
+| 2:30-3:00 | Diferencial e impacto |
+
+Link do vídeo: [inserir em `docs/05-pitch.md` após gravar]
 
 ---
 

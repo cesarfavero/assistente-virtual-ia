@@ -42,3 +42,11 @@ Perguntas sugeridas na demonstração:
 ## Link do vídeo
 
 [Inserir link do pitch: YouTube, Loom ou Google Drive]
+
+## Demo para gravar na tela
+
+Use a interface web em `web/` (deploy Vercel ou `npm run dev` local):
+
+1. "Quanto gastei com alimentação?"
+2. "Como está minha reserva de emergência?"
+3. "Onde devo investir meu dinheiro?"

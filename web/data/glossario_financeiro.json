@@ -1,0 +1,26 @@
+[
+  {
+    "termo": "Reserva de emergência",
+    "definicao": "Valor guardado para imprevistos, como desemprego ou despesas médicas. Regra comum: 3 a 6 meses de gastos essenciais."
+  },
+  {
+    "termo": "CDI",
+    "definicao": "Taxa de referência do mercado interbancário. Muitos investimentos de renda fixa rendem um percentual do CDI."
+  },
+  {
+    "termo": "Selic",
+    "definicao": "Taxa básica de juros da economia brasileira. Influencia a rentabilidade de investimentos conservadores."
+  },
+  {
+    "termo": "Tesouro Selic",
+    "definicao": "Título público atrelado à Selic, com liquidez diária. Costuma ser usado para reserva de emergência."
+  },
+  {
+    "termo": "Orçamento",
+    "definicao": "Registro de receitas e despesas para entender para onde o dinheiro vai e planejar o mês."
+  },
+  {
+    "termo": "CET",
+    "definicao": "Custo Efetivo Total. Mostra o custo real de um crédito, incluindo juros, tarifas e encargos."
+  }
+]
