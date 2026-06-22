@@ -137,7 +137,7 @@ npm run dev
 
 Abra http://localhost:3000. Chat estilo assistente moderno, com a mesma lógica da Mira.
 
-**Demo online:** https://web-ten-sable-35.vercel.app
+**Demo online:** https://assistente-virtual-ia.vercel.app
 
 **Deploy Vercel:** `cd web && npx vercel deploy --prod`
 
