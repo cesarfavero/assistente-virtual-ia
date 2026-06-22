@@ -137,7 +137,9 @@ npm run dev
 
 Abra http://localhost:3000. Chat estilo assistente moderno, com a mesma lógica da Mira.
 
-**Deploy Vercel:** conecte o repositório e defina `Root Directory` como `web` (ou use o `vercel.json` na raiz).
+**Demo online:** https://web-ten-sable-35.vercel.app
+
+**Deploy Vercel:** `cd web && npx vercel deploy --prod`
 
 ---
 
