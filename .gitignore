@@ -9,11 +9,5 @@ env/
 .streamlit/secrets.toml
 web/node_modules/
 web/.next/
-docs/06-roteiro-pitch-voz.md
 .vercel/
-.agents/
-pitch-video/
-narracao.mp3
-*.mp4
 out/
-skills-lock.json

@@ -1,5 +1,9 @@
 # Pitch (3 minutos)
 
+## Vídeo
+
+**YouTube:** https://youtu.be/4ZCQtfxn3cs
+
 ## Estrutura
 
 | Tempo | Seção | Conteúdo |
@@ -33,15 +37,12 @@ Perguntas sugeridas na demonstração:
 
 ## Checklist
 
-- [ ] Duração máxima de 3 minutos
-- [ ] Problema claramente definido
-- [ ] Solução demonstrada na prática
-- [ ] Diferencial explicado
-- [ ] Áudio e vídeo com boa qualidade
-
-## Link do vídeo
-
-[Inserir link do pitch: YouTube, Loom ou Google Drive]
+- [x] Duração máxima de 3 minutos
+- [x] Problema claramente definido
+- [x] Solução demonstrada na prática
+- [x] Diferencial explicado
+- [x] Áudio e vídeo com boa qualidade
+- [x] Link publicado no README
 
 ## Demo para gravar na tela
 

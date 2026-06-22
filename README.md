@@ -4,6 +4,8 @@
 
 **Lab:** Construa Seu Assistente Virtual Com Inteligência Artificial
 
+**Pitch (YouTube):** https://youtu.be/4ZCQtfxn3cs
+
 ---
 
 ## 1. O que é a Mira
@@ -35,7 +37,7 @@ A Mira é uma assistente de organização financeira pessoal. Ela conversa com a
 | 3. Prompts | System prompt, exemplos e edge cases | [`docs/03-prompts.md`](docs/03-prompts.md) / [`src/prompts.py`](src/prompts.py) |
 | 4. Aplicação funcional | Chat Streamlit com LLM | [`src/app.py`](src/app.py) |
 | 5. Avaliação e métricas | Cenários de teste e critérios | [`docs/04-metricas.md`](docs/04-metricas.md) / [`src/evaluate.py`](src/evaluate.py) |
-| 6. Pitch | Roteiro de 3 minutos | [`docs/05-pitch.md`](docs/05-pitch.md) |
+| 6. Pitch | Vídeo de 3 minutos | [`docs/05-pitch.md`](docs/05-pitch.md) · [YouTube](https://youtu.be/4ZCQtfxn3cs) |
 
 ---
 
@@ -145,7 +147,9 @@ Abra http://localhost:3000. Chat estilo assistente moderno, com a mesma lógica 
 
 ## Pitch
 
-Link do vídeo: [inserir em `docs/05-pitch.md` após publicar]
+Vídeo publicado no YouTube: https://youtu.be/4ZCQtfxn3cs
+
+Roteiro e estrutura em [`docs/05-pitch.md`](docs/05-pitch.md).
 
 ---
 
