@@ -127,7 +127,7 @@ cd src
 python evaluate.py
 ```
 
-### Interface web (demo para pitch e Vercel)
+### Interface web (Vercel)
 
 ```bash
 cd web
@@ -143,16 +143,9 @@ Abra http://localhost:3000. Chat estilo assistente moderno, com a mesma lógica 
 
 ---
 
-## Pitch (vídeo 3 min)
+## Pitch
 
-| Tempo | Bloco |
-|-------|-------|
-| 0:00-0:30 | Problema |
-| 0:30-1:30 | Solução |
-| 1:30-2:30 | Demonstração (gravar a `web/`) |
-| 2:30-3:00 | Diferencial e impacto |
-
-Link do vídeo: [inserir em `docs/05-pitch.md` após gravar]
+Link do vídeo: [inserir em `docs/05-pitch.md` após publicar]
 
 ---
 
